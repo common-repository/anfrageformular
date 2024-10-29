@@ -1,0 +1,1 @@
+Diese Demo enthält 6 Fragen für Leadgewinnung, speziell für Fliesenleger. Es werden exakte Informationen abgefragt z.B. wo gefliest werden soll (Innen oder Außen) und welche Materialien verwendet werden sollen.

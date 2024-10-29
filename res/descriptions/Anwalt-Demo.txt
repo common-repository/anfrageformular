@@ -1,0 +1,1 @@
+Diese Demo enthält 6 Fragen für Leadgewinnung, speziell für Anwälte. Der Interessent gibt an, ob er als Privatperson oder Unternehmen anfragt. Weiterhin wird abgefragt, ob der Interessent klagen möchte.

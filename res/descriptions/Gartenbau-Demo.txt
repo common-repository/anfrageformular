@@ -1,0 +1,1 @@
+Diese Demo enthält 9 Fragen für Leadgewinnung, speziell für den Garten/Landschaftsbau. Dem Interessenten werden spezifische Fragen gestellt, die durch die eingebaute Logik konkretisiert werden.

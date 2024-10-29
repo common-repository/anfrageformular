@@ -1,0 +1,1 @@
+Die Demo enthält 12 Fragen zu finanzierenden Objekten (Haus, Auto, sonstiges). Eine eingebaute Logik gewährleistet, dass nur die Daten abgefragt werden, die für die erste Kontaktaufnahme relevant sind.

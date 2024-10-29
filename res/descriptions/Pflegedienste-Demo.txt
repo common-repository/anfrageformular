@@ -1,0 +1,1 @@
+Diese Demo enthält 9 Fragen zur Leadgewinnung für Ambulante Pflegedienste. Es werden Informationen abgefragt zu Pflegestufe, eventuelle Bettlägerigkeit sowie Angaben zur Kommunikationsfähigkeit der zu pflegenden Person.

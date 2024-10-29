@@ -1,0 +1,1 @@
+Diese Demo enthält 16 Fragen für Leadgewinnung, speziell für Immobilienmakler. Dem Besucher werden anhand seiner Angaben (Haus, Wohnung, Grundstück) spezifische Fragen gestellt. 

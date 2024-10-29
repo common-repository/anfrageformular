@@ -1,0 +1,1 @@
+Diese Demo enthält 8 Fragen zur Leadgewinnung für Umzugsunternehmen. Es werden u.a Informationen abgefragt wie groß der Haushalt ist, ob Möbel auf oder abgebaut werden müssen, die Entfernung zwischen den Wohnorten sowie wann der Umzug stattfinden soll.

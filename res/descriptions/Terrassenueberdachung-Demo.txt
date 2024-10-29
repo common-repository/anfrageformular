@@ -1,0 +1,1 @@
+Diese Demo enthält 7 Fragen für Leadgewinnung, speziell für Handwerker im Bereich Terrassenüberdachungen/Überdachungen. Es wird gefragt, ob eine Überdachung im gewerblichen Bereich oder im privaten Bereich installiert werden soll und Angaben des Interessenten über die Art des Daches sowie die zu überdachte Fläche.

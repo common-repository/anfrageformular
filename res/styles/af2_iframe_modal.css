@@ -1,0 +1,14 @@
+.af2-iframe-modal .modal-content {
+	height: calc(100% - 60px);
+}
+.af2-iframe-modal .af2-iframe-code-wrap {
+	margin-top: 40px;
+}
+.af2-iframe-modal .modal-content textarea {
+	height: 80px;
+	resize: none;
+}
+.af2-iframe-modal .modal-content p {
+	font-size: 18px;
+    margin-bottom: 10px;
+}

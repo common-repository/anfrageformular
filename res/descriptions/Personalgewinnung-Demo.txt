@@ -1,0 +1,1 @@
+Diese Demo enthält 7 Fragen für die Personalgewinnung anhand des Beispiels einer Maurer-Firma. Es wird zwischen Ausbildung, Stellenangebot für Gesellen und Meister unterschieden.
